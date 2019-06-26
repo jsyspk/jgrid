@@ -5,5 +5,9 @@
   "main": "index.js",
   "author": "ali@jsys.pk",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/jsyspk/jgrid.git",
+    "type": "git"
+  },
   "private": false
 }
