@@ -1,0 +1,9 @@
+{
+  "name": "@jsys/jgrid",
+  "version": "1.0.0",
+  "description": "javascript grid",
+  "main": "index.js",
+  "author": "ali@jsys.pk",
+  "license": "MIT",
+  "private": false
+}
