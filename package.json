@@ -1,6 +1,6 @@
 {
-  "name": "@jsys/jgrid",
-  "version": "1.0.0",
+  "name": "j-grid",
+  "version": "1.0.1",
   "description": "javascript grid",
   "main": "index.js",
   "author": "ali@jsys.pk",
